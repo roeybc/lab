@@ -1,0 +1,12 @@
+[project]
+name = "baml-agent"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+    "baml-py>=0.206.1",
+    "pydantic>=2.11.7",
+    "python-dotenv>=1.1.1",
+    "typing-extensions>=4.15.0",
+]
