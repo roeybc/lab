@@ -3,7 +3,7 @@
 ## Requirements
 
 1. call `uv sync`
-2. run `cp .env.cp .env`
+2. run `cp .env.example .env`
 3. Get an OpenIA key and copy it to the file
 4. Initialize baml: `uv run baml-cli generate
 
