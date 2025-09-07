@@ -1,0 +1,11 @@
+[project]
+name = "4-agents"
+version = "0.1.0"
+description = "Simple ReAct (Reasoning and Acting) Agent Implementation"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+    "openai>=1.105.0",
+    "python-dotenv>=1.1.1",
+    "pydantic>=2.0.0",
+]
