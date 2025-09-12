@@ -210,3 +210,4 @@ __marimo__/
 baml_client/
 
 .cursor
+.DS_Store
