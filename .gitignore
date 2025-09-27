@@ -211,3 +211,5 @@ baml_client/
 
 .cursor
 .DS_Store
+
+qa_vector_store/
